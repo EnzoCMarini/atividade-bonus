@@ -13,7 +13,7 @@ console.log(`O meu nome é ${nome} nasci em ${nascimento} e sou ${atributo}.`);
 if (nascimento <= 2009){
     console.log(`Sim, executei essa linha`);
 }
-else if (nascimento < 1900){
+else if (nascimento < 2009){
     console.log(`Sim, executei essa linha`);
 }
 else{
